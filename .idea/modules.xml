@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Formation_Kotlin.iml" filepath="$PROJECT_DIR$/.idea/Formation_Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/FizzBuzz/lesson1-FizzBuzz.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/FizzBuzz/lesson1-FizzBuzz.iml" group="lesson1-FizzBuzz" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/FizzBuzz/lesson1-FizzBuzz_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/FizzBuzz/lesson1-FizzBuzz_main.iml" group="lesson1-FizzBuzz" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/FizzBuzz/lesson1-FizzBuzz_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/FizzBuzz/lesson1-FizzBuzz_test.iml" group="lesson1-FizzBuzz" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/RomanSum/lesson1-RomanSum.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/RomanSum/lesson1-RomanSum.iml" group="lesson1-RomanSum" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/RomanSum/lesson1-RomanSum_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/RomanSum/lesson1-RomanSum_main.iml" group="lesson1-RomanSum" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/RomanSum/lesson1-RomanSum_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/RomanSum/lesson1-RomanSum_test.iml" group="lesson1-RomanSum" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="util" />
+    </modules>
+  </component>
+</project>

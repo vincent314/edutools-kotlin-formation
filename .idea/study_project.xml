@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="course">
+        <Course>
+          <option name="authors">
+            <list>
+              <StepicUser>
+                <option name="accessToken" value="" />
+                <option name="firstName" value="Vincent" />
+                <option name="guest" value="false" />
+                <option name="id" value="-1" />
+                <option name="lastName" value="" />
+                <option name="refreshToken" value="" />
+              </StepicUser>
+            </list>
+          </option>
+          <option name="courseMode" value="Course Creator" />
+          <option name="courseType" value="PyCharm" />
+          <option name="customPresentableName" />
+          <option name="description" value="Formation à Kotlin" />
+          <option name="fromZip" value="false" />
+          <option name="index" value="-1" />
+          <option name="language" value="kotlin" />
+          <option name="languageCode" value="en" />
+          <option name="name" value="Formation Kotlin" />
+          <option name="stepikChangeStatus" value="Up to date" />
+          <option name="items">
+            <list>
+              <Lesson>
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="lesson1" />
+                <option name="stepikChangeStatus" value="Content changed" />
+                <option name="updateDate" value="0" />
+                <option name="taskList">
+                  <list>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;html&gt;&#10;&lt;p&gt;Écrire l'algorithme de FizzBuzz. Itérer sur N entiers et écrire :&lt;/p&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&lt;code&gt;Fizz&lt;/code&gt; si l'entier est divisible par 3&lt;/li&gt;&#10;    &lt;li&gt;&lt;code&gt;Buzz&lt;/code&gt; si l'entier est divisible par 5&lt;/li&gt;&#10;    &lt;li&gt;&lt;code&gt;FizzBuzz&lt;/code&gt; s'il est divisible par 3 et par 5&lt;/li&gt;&#10;    &lt;li&gt;l'entier sinon&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;Retourner le résultat sous la forme d'une chaîne de caractères, les éléments étant séparés par des virgules.&lt;/p&gt;&#10;&#10;&lt;p&gt;Exemple, de 1 à 10 :&lt;/p&gt;&#10;&lt;code&gt;1,2,Fizz,4,Buzz,Fizz,7,8,Fizz,Buzz&lt;/code&gt;&#10;&lt;/html&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" />
+                          <option name="type" value="STEPIK" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="index" value="1" />
+                      <option name="name" value="FizzBuzz" />
+                      <option name="status" value="Solved" />
+                      <option name="stepId" value="0" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="src/FizzBuzz.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list>
+                                          <option value="Utiliser la fonction &lt;code&gt;map&lt;/code&gt; pour transformer chaque élément de l'intervale, puis la fonction &lt;code&gt;joinToString&lt;/code&gt; pour concaténer un chaîne de caractères unique." />
+                                        </list>
+                                      </option>
+                                      <option name="index" value="0" />
+                                      <option name="initialState" />
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="87" />
+                                      <option name="offset" value="44" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="TODO(&quot;Écrire l'algorithme Fizz-Buzz en chaîne de caractères, séparés par des virgules&quot;)" />
+                                      <option name="possibleAnswer" value="return range&#10;            .asSequence()&#10;            .map {&#10;                when {&#10;                    it % 3 == 0 &amp;&amp; it % 5 == 0 -&gt; &quot;FizzBuzz&quot;&#10;                    it % 3 == 0 -&gt; &quot;Fizz&quot;&#10;                    it % 5 == 0 -&gt; &quot;Buzz&quot;&#10;                    else -&gt; it.toString()&#10;                }&#10;            }.joinToString(&quot;,&quot;)" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Solved" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/FizzBuzz.kt" />
+                                <option name="text" value="// type your solution here" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="test/FizzBuzz.kt" value="import org.junit.Assert&#10;import org.junit.Test&#10;&#10;class Test {&#10;    @Test fun testSolution() {&#10;        //TODO: implement your test here&#10;        Assert.assertTrue(&quot;Tests not implemented for the task&quot;, false)&#10;    }&#10;}" />
+                        </map>
+                      </option>
+                      <option name="updateDate" value="0" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;html&gt;&#10;Écrivez une fonction d'ajout de deux nombres romains.&#10;&#10;⚠ Vous ne devez jamais convertir les nombres en décimal !&#10;&#10;Utilisez les algorithmes très simples (ex. chercher / remplacer), et limitez vous au milliers.&#10;&#10;Exemples&#10;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&lt;code&gt;sum(&quot;X&quot;,&quot;XI&quot;) == &quot;XVI&quot;&lt;/code&gt;&lt;/li&gt;&#10;    &lt;li&gt;&lt;code&gt;sum(&quot;DCXCIV&quot;, &quot;MMCCCLIV&quot;) == &quot;MMMXLVIII&quot;&lt;/code&gt;&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;Rappels&#10;&#10;&lt;ul&gt;&#10;    &lt;li&gt;1 = I&lt;/li&gt;&#10;    &lt;li&gt;4 = IV&lt;/li&gt;&#10;    &lt;li&gt;5 = V&lt;/li&gt;&#10;    &lt;li&gt;9 = IX&lt;/li&gt;&#10;    &lt;li&gt;10 = X&lt;/li&gt;&#10;    &lt;li&gt;40 = XL&lt;/li&gt;&#10;    &lt;li&gt;50 = L&lt;/li&gt;&#10;    &lt;li&gt;100 = C&lt;/li&gt;&#10;    &lt;li&gt;400 = CD&lt;/li&gt;&#10;    &lt;li&gt;500 = D&lt;/li&gt;&#10;    &lt;li&gt;900 = CM&lt;/li&gt;&#10;    &lt;li&gt;1000 = M&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;br&gt;&#10;&lt;br&gt;&#10;&lt;div class=&quot;hint&quot;&gt;&#10;    You can add hints anywhere in task text. Copy all hint div block and change its content.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" />
+                          <option name="type" value="STEPIK" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="index" value="2" />
+                      <option name="name" value="RomanSum" />
+                      <option name="status" value="Solved" />
+                      <option name="stepId" value="0" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="src/RomanSum.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list>
+                                          <option value="Construisez d'abord une fonction unpack pour décompacter les nombres : écrire de façon naïve les formes soustractives.&#10;&#10;Exemples:&#10;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&lt;code&gt;unpack(&quot;XIX&quot;) == &quot;XVIIII&quot;&lt;/code&gt;&lt;/li&gt;&#10;    &lt;li&gt;&lt;code&gt;unpack(&quot;XXIV&quot;) == &quot;XXIIII&quot;&lt;/code&gt;&lt;/li&gt;&#10;&lt;/ul&gt;&#10;" />
+                                        </list>
+                                      </option>
+                                      <option name="index" value="0" />
+                                      <option name="initialState" />
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="53" />
+                                      <option name="offset" value="226" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="TODO(&quot;Décompacter les formes soustractives usuelles&quot;)" />
+                                      <option name="possibleAnswer" value="&#10;        unpackRules.fold(roman) { r, (old, new) -&gt;&#10;            r.replace(old, new)&#10;        }" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Solved" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list>
+                                          <option value="Construisez une fonction &lt;b&gt;merge&lt;/b&gt; pour concaténer et trier les caractères.&#10;&#10;&lt;code&gt; merge(&quot;XVIIII&quot;, &quot;XXIIII&quot;) == &quot;XXXVIIIIIIII&quot;&lt;/code&gt;&#10;&#10;" />
+                                        </list>
+                                      </option>
+                                      <option name="index" value="1" />
+                                      <option name="initialState" />
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="27" />
+                                      <option name="offset" value="382" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="TODO(&quot;Concaténer et trier&quot;)" />
+                                      <option name="possibleAnswer" value="    val weights: Map&lt;Char, Int&gt; = mapOf(&#10;            'I' to 1,&#10;            'V' to 5,&#10;            'X' to 10,&#10;            'L' to 50,&#10;            'C' to 100,&#10;            'D' to 500,&#10;            'M' to 1000&#10;    )&#10;    return roman1.plus(roman2).toCharArray()&#10;            .sortedByDescending { weights[it] }&#10;            .joinToString(&quot;&quot;)" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Solved" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list>
+                                          <option value="Construisez une fonction &lt;b&gt;group&lt;/b&gt; pour regrouper les &quot;tas&quot; en partant de la droite (les plus petits).&#10;&#10;&lt;code&gt;group(&quot;XXXVIIIIIIII) == &quot;XXXXIII&quot;&lt;/code&gt;&#10;" />
+                                        </list>
+                                      </option>
+                                      <option name="index" value="2" />
+                                      <option name="initialState" />
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="32" />
+                                      <option name="offset" value="937" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="TODO(&quot;Regrouper les caractères&quot;)" />
+                                      <option name="possibleAnswer" value="groupRules&#10;                .fold(roman) { r, (old, new) -&gt;&#10;                    r.replace(old, new)&#10;                }" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Solved" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list>
+                                          <option value="Construisez une fonction simplify pour simplifiers les formes soustractives XL ou IV :&#10;&#10;&lt;code&gt;simplify(&quot;XXXXIII&quot;) == &quot;XLIII&quot;&lt;/code&gt;&#10;" />
+                                        </list>
+                                      </option>
+                                      <option name="index" value="3" />
+                                      <option name="initialState" />
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="35" />
+                                      <option name="offset" value="1110" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="TODO(&quot;Simplifier le nombre romain&quot;)" />
+                                      <option name="possibleAnswer" value="unpackRules&#10;                .reversed()&#10;                .map { (compactForm, expandForm) -&gt; expandForm to compactForm }&#10;                .fold(roman) { r, (expandForm, compactForm) -&gt; r.replace(expandForm, compactForm) }&#10;                .toList()&#10;                .joinToString(&quot;&quot;)" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Solved" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/RomanSum.kt" />
+                                <option name="text" value="// type your solution here" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="test/Tests.kt" value="import org.junit.Assert&#10;import org.junit.Test&#10;&#10;class Test {&#10;    @Test fun testSolution() {&#10;        //TODO: implement your test here&#10;        Assert.assertTrue(&quot;Tests not implemented for the task&quot;, false)&#10;    }&#10;}" />
+                        </map>
+                      </option>
+                      <option name="updateDate" value="0" />
+                    </EduTask>
+                  </list>
+                </option>
+                <option name="unitId" value="0" />
+              </Lesson>
+            </list>
+          </option>
+        </Course>
+      </option>
+      <option name="VERSION" value="11" />
+      <option name="myUserTests">
+        <map />
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
