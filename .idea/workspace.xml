@@ -1,46 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fcbfddf-b8a3-494e-8f1d-4c9b7978ba18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Formation_Kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_0_rc_198.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_0_rc_198.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_0_rc_198.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_0_rc_198.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/lesson1/FizzBuzz/lesson1-FizzBuzz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/lesson1/FizzBuzz/lesson1-FizzBuzz_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/lesson1/FizzBuzz/lesson1-FizzBuzz_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/lesson1/RomanSum/lesson1-RomanSum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/lesson1/RomanSum/lesson1-RomanSum_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/lesson1/RomanSum/lesson1-RomanSum_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/util.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/FizzBuzz/src/FizzBuzz.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/FizzBuzz/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/FizzBuzz/test/FizzBuzz.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/RomanSum/src/RomanSum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/RomanSum/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/RomanSum/test/Tests.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    <list default="true" id="3fcbfddf-b8a3-494e-8f1d-4c9b7978ba18" name="Default Changelist" comment="🎨 create multiple tasks for RomanSum">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/RomanSum/sum/RomanSum-sum_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/RomanSum/sum/RomanSum-sum_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/lesson1/FizzBuzz/lesson1-FizzBuzz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/lesson1/FizzBuzz/lesson1-FizzBuzz_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/lesson1/FizzBuzz/lesson1-FizzBuzz_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/lesson1/RomanSum/lesson1-RomanSum_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/lesson1/RomanSum/lesson1-RomanSum_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/FizzBuzz/src/FizzBuzz.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/src/FizzBuzz.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/FizzBuzz/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/FizzBuzz/test/FizzBuzz.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/test/FizzBuzz.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/RomanSum/src/RomanSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/RomanSum/sum/src/RomanSum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/RomanSum/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/RomanSum/test/Tests.kt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -53,6 +31,24 @@
     <ignored path="$PROJECT_DIR$/lesson1/RomanSum/.gradle/" />
     <ignored path="$PROJECT_DIR$/lesson1/RomanSum/build/" />
     <ignored path="$PROJECT_DIR$/lesson1/RomanSum/out/" />
+    <ignored path="$PROJECT_DIR$/RomanSum/unpack/.gradle/" />
+    <ignored path="$PROJECT_DIR$/RomanSum/unpack/build/" />
+    <ignored path="$PROJECT_DIR$/RomanSum/unpack/out/" />
+    <ignored path="$PROJECT_DIR$/RomanSum/merge/.gradle/" />
+    <ignored path="$PROJECT_DIR$/RomanSum/merge/build/" />
+    <ignored path="$PROJECT_DIR$/RomanSum/merge/out/" />
+    <ignored path="$PROJECT_DIR$/RomanSum/group/.gradle/" />
+    <ignored path="$PROJECT_DIR$/RomanSum/group/build/" />
+    <ignored path="$PROJECT_DIR$/RomanSum/group/out/" />
+    <ignored path="$PROJECT_DIR$/RomanSum/simplify/.gradle/" />
+    <ignored path="$PROJECT_DIR$/RomanSum/simplify/build/" />
+    <ignored path="$PROJECT_DIR$/RomanSum/simplify/out/" />
+    <ignored path="$PROJECT_DIR$/RomanSum/sum/.gradle/" />
+    <ignored path="$PROJECT_DIR$/RomanSum/sum/build/" />
+    <ignored path="$PROJECT_DIR$/RomanSum/sum/out/" />
+    <ignored path="$PROJECT_DIR$/FizzBuzz/FizzBuzz/.gradle/" />
+    <ignored path="$PROJECT_DIR$/FizzBuzz/FizzBuzz/build/" />
+    <ignored path="$PROJECT_DIR$/FizzBuzz/FizzBuzz/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,40 +64,45 @@
     <session id="666439435">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gradle" value="2" />
-          <entry key="html" value="24" />
-          <entry key="kt" value="65" />
+          <entry key="gradle" value="3" />
+          <entry key="html" value="54" />
+          <entry key="kt" value="166" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Groovy" value="2" />
-          <entry key="HTML" value="24" />
-          <entry key="Kotlin" value="65" />
+          <entry key="Groovy" value="3" />
+          <entry key="HTML" value="54" />
+          <entry key="Kotlin" value="166" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="8" />
-          <entry key="html" value="572" />
-          <entry key="kt" value="1570" />
+          <entry key="html" value="642" />
+          <entry key="kt" value="1611" />
+          <entry key="txt" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="8" />
-          <entry key="HTML" value="572" />
-          <entry key="Kotlin" value="1570" />
+          <entry key="HTML" value="642" />
+          <entry key="Kotlin" value="1611" />
+          <entry key="PLAIN_TEXT" value="106" />
         </counts>
       </usages-collector>
     </session>
@@ -109,10 +110,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson1/RomanSum/src/RomanSum.kt">
+        <entry file="file://$PROJECT_DIR$/RomanSum/sum/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
-            <state relative-caret-position="140">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="28">
+              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -155,12 +156,28 @@
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value=":lesson1-FizzBuzz" />
-                <option name="path" value="$PROJECT_DIR$/lesson1/FizzBuzz" />
+                <option name="name" value=":FizzBuzz-FizzBuzz" />
+                <option name="path" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value=":lesson1-RomanSum" />
-                <option name="path" value="$PROJECT_DIR$/lesson1/RomanSum" />
+                <option name="name" value=":RomanSum-group" />
+                <option name="path" value="$PROJECT_DIR$/RomanSum/group" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":RomanSum-merge" />
+                <option name="path" value="$PROJECT_DIR$/RomanSum/merge" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":RomanSum-simplify" />
+                <option name="path" value="$PROJECT_DIR$/RomanSum/simplify" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":RomanSum-sum" />
+                <option name="path" value="$PROJECT_DIR$/RomanSum/sum" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":RomanSum-unpack" />
+                <option name="path" value="$PROJECT_DIR$/RomanSum/unpack" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":util" />
@@ -361,6 +378,1080 @@
             </list>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/FizzBuzz/FizzBuzz">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':FizzBuzz-FizzBuzz'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="inspectClassesForKotlinIC" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':FizzBuzz-FizzBuzz'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':FizzBuzz-FizzBuzz'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':FizzBuzz-FizzBuzz'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="mainClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':FizzBuzz-FizzBuzz'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':FizzBuzz-FizzBuzz'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the compilation 'test' (target  (jvm))." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="compileTestKotlin" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':FizzBuzz-FizzBuzz'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':FizzBuzz-FizzBuzz'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the compilation 'main' (target  (jvm))." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="compileKotlin" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':FizzBuzz-FizzBuzz'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/RomanSum/group">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':RomanSum-group'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="inspectClassesForKotlinIC" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':RomanSum-group'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':RomanSum-group'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':RomanSum-group'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="mainClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':RomanSum-group'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':RomanSum-group'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the compilation 'test' (target  (jvm))." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="compileTestKotlin" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':RomanSum-group'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':RomanSum-group'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the compilation 'main' (target  (jvm))." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="compileKotlin" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':RomanSum-group'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/group" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/RomanSum/merge">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':RomanSum-merge'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="inspectClassesForKotlinIC" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':RomanSum-merge'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':RomanSum-merge'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':RomanSum-merge'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="mainClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':RomanSum-merge'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':RomanSum-merge'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the compilation 'test' (target  (jvm))." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="compileTestKotlin" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':RomanSum-merge'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':RomanSum-merge'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the compilation 'main' (target  (jvm))." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="compileKotlin" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':RomanSum-merge'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/merge" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/RomanSum/simplify">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':RomanSum-simplify'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="inspectClassesForKotlinIC" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':RomanSum-simplify'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':RomanSum-simplify'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':RomanSum-simplify'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="mainClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':RomanSum-simplify'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':RomanSum-simplify'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the compilation 'test' (target  (jvm))." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="compileTestKotlin" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':RomanSum-simplify'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':RomanSum-simplify'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the compilation 'main' (target  (jvm))." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="compileKotlin" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':RomanSum-simplify'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/simplify" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/RomanSum/sum">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':RomanSum-sum'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="inspectClassesForKotlinIC" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':RomanSum-sum'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':RomanSum-sum'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':RomanSum-sum'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="mainClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':RomanSum-sum'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':RomanSum-sum'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the compilation 'test' (target  (jvm))." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="compileTestKotlin" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':RomanSum-sum'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':RomanSum-sum'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the compilation 'main' (target  (jvm))." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="compileKotlin" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':RomanSum-sum'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/sum" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/RomanSum/unpack">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':RomanSum-unpack'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="inspectClassesForKotlinIC" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':RomanSum-unpack'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':RomanSum-unpack'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':RomanSum-unpack'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="mainClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':RomanSum-unpack'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':RomanSum-unpack'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the compilation 'test' (target  (jvm))." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="compileTestKotlin" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':RomanSum-unpack'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':RomanSum-unpack'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the compilation 'main' (target  (jvm))." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="compileKotlin" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':RomanSum-unpack'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/RomanSum/unpack" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/lesson1/FizzBuzz">
           <value>
             <list>
@@ -535,185 +1626,6 @@
               <ExternalTaskPojo>
                 <option name="description" value="Displays the properties of project ':lesson1-FizzBuzz'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/FizzBuzz" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/lesson1/RomanSum">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':lesson1-RomanSum'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="buildDependents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="inspectClassesForKotlinIC" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':lesson1-RomanSum'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="classes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in project ':lesson1-RomanSum'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':lesson1-RomanSum'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs this project as a JVM application" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="run" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="mainClasses" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles test classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="testClasses" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates Javadoc API documentation for the main source code." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="javadoc" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="startScripts" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles a jar archive containing the main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="jar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':lesson1-RomanSum'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs the project as a distribution as-is." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="installDist" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Processes main resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="processResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':lesson1-RomanSum'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles the main distributions" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="assembleDist" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs the unit tests." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="test" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles main Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="compileJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles the compilation 'test' (target  (jvm))." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="compileTestKotlin" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':lesson1-RomanSum'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs all checks." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="check" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles the outputs of this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="assemble" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Deletes the build directory." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="clean" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles test Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="compileTestJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':lesson1-RomanSum'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Processes test resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="processTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles the compilation 'main' (target  (jvm))." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="compileKotlin" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="build" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects it depends on." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="buildNeeded" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Bundles the project as a distribution." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="distTar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Bundles the project as a distribution." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
-                <option name="name" value="distZip" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':lesson1-RomanSum'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lesson1/RomanSum" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
             </list>
@@ -961,6 +1873,264 @@
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
+                  <entry key="$PROJECT_DIR$/FizzBuzz/FizzBuzz">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.0-rc-198/d0c1e5e89f9f90417042fa80ea61994701909b3/kotlin-gradle-plugin-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.3.0-rc-198/f1401c292c08c8409d182b76e63c0f31f646265/kotlin-gradle-plugin-api-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/1.3.0-rc-198/839e602f6a8df14e19adf66ce559bed267b9f002/kotlin-gradle-plugin-model-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.0-rc-198/aefe232f9860570aaea041b414890b1b2fe77ff7/kotlin-compiler-embeddable-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-annotation-processing-gradle/1.3.0-rc-198/da5c8f5919fc84e1aa73b0ac6eb3ae210a1eb0bc/kotlin-annotation-processing-gradle-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.0-rc-198/984bfeeaea53c02b26340e1f1bd5809dea5d98a/kotlin-android-extensions-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.3.0-rc-198/eef59205161a7c0dd123da79727248e6ba65832b/kotlin-compiler-runner-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.3.0-rc-198/56693bb45bf9ac6e62acf84b5152c6c62523fe6a/kotlin-scripting-compiler-embeddable-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0-rc-198/2dcf21de3e2442ee84b1edecdec15b52edf55bfb/kotlin-stdlib-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.3.0-rc-198/ea068a35475f1700dd54a37d55ff1f1c0611d9d0/kotlin-native-utils-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.0-rc-198/70834dc4005aac247b7fc5e3825bc4cfa3c377bd/kotlin-script-runtime-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.0-rc-198/f25b8cfcc232b931e12c0e0bfc4a0e2b0c84b185/kotlin-reflect-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-common/1.3.0-rc-198/875c042521c3b6457cf89e6f1dc00dd64ce51623/kotlin-build-common-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/1.3.0-rc-198/cd09d0436198bfcf5721b0fa64da5ccf4b7cd3ed/kotlin-daemon-client-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0-rc-198/1189d61816482d68767592f9b6205a44be76eee8/kotlin-stdlib-common-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.0-rc-198/36589ca214b59473c1fbe210793339337a624dbd/kotlin-gradle-plugin-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.3.0-rc-198/2a90cb698561c4247767c1e8dce4dc70fb38c1f1/kotlin-gradle-plugin-api-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/1.3.0-rc-198/1f8b09db79c3e9c53852113e147f797e4be1e9f8/kotlin-gradle-plugin-model-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.0-rc-198/127184efcb57bbe708bee90112bf440fbe37a147/kotlin-compiler-embeddable-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-annotation-processing-gradle/1.3.0-rc-198/e474c42e62a30c9018136f4ce3af99377c8def6e/kotlin-annotation-processing-gradle-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.0-rc-198/4218b9c3facddcdbfd1a7af5d8677cb48fc2482b/kotlin-android-extensions-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.3.0-rc-198/32c54e1a1e17d621401d49ec594e2f5db08dae1a/kotlin-compiler-runner-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.3.0-rc-198/d37282f4358dbd5e2d813bf3b5a66576ef389c3/kotlin-scripting-compiler-embeddable-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0-rc-198/623f203177bd2a7555d32595a0f35fc0a44bbedb/kotlin-stdlib-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.3.0-rc-198/c2ab990fcaa0911ad5142e12d97710bb4af3eca7/kotlin-native-utils-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.0-rc-198/92d7e05f5875d4b98ce13bf5a887266be7512a8c/kotlin-script-runtime-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.0-rc-198/e33e5c906387baaf8767ffc6806d10ee5bddeead/kotlin-reflect-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-common/1.3.0-rc-198/93e6701504a7ed209a33a67198d97c9ad352d2e2/kotlin-build-common-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/1.3.0-rc-198/334d2f4e0f4905cd95346e8c58264bf0099d32be/kotlin-daemon-client-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0-rc-198/bce8c60f1d4839dc8121b7580fb078073037d501/kotlin-stdlib-common-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/RomanSum/group">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.0-rc-198/d0c1e5e89f9f90417042fa80ea61994701909b3/kotlin-gradle-plugin-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.3.0-rc-198/f1401c292c08c8409d182b76e63c0f31f646265/kotlin-gradle-plugin-api-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/1.3.0-rc-198/839e602f6a8df14e19adf66ce559bed267b9f002/kotlin-gradle-plugin-model-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.0-rc-198/aefe232f9860570aaea041b414890b1b2fe77ff7/kotlin-compiler-embeddable-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-annotation-processing-gradle/1.3.0-rc-198/da5c8f5919fc84e1aa73b0ac6eb3ae210a1eb0bc/kotlin-annotation-processing-gradle-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.0-rc-198/984bfeeaea53c02b26340e1f1bd5809dea5d98a/kotlin-android-extensions-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.3.0-rc-198/eef59205161a7c0dd123da79727248e6ba65832b/kotlin-compiler-runner-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.3.0-rc-198/56693bb45bf9ac6e62acf84b5152c6c62523fe6a/kotlin-scripting-compiler-embeddable-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0-rc-198/2dcf21de3e2442ee84b1edecdec15b52edf55bfb/kotlin-stdlib-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.3.0-rc-198/ea068a35475f1700dd54a37d55ff1f1c0611d9d0/kotlin-native-utils-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.0-rc-198/70834dc4005aac247b7fc5e3825bc4cfa3c377bd/kotlin-script-runtime-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.0-rc-198/f25b8cfcc232b931e12c0e0bfc4a0e2b0c84b185/kotlin-reflect-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-common/1.3.0-rc-198/875c042521c3b6457cf89e6f1dc00dd64ce51623/kotlin-build-common-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/1.3.0-rc-198/cd09d0436198bfcf5721b0fa64da5ccf4b7cd3ed/kotlin-daemon-client-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0-rc-198/1189d61816482d68767592f9b6205a44be76eee8/kotlin-stdlib-common-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.0-rc-198/36589ca214b59473c1fbe210793339337a624dbd/kotlin-gradle-plugin-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.3.0-rc-198/2a90cb698561c4247767c1e8dce4dc70fb38c1f1/kotlin-gradle-plugin-api-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/1.3.0-rc-198/1f8b09db79c3e9c53852113e147f797e4be1e9f8/kotlin-gradle-plugin-model-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.0-rc-198/127184efcb57bbe708bee90112bf440fbe37a147/kotlin-compiler-embeddable-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-annotation-processing-gradle/1.3.0-rc-198/e474c42e62a30c9018136f4ce3af99377c8def6e/kotlin-annotation-processing-gradle-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.0-rc-198/4218b9c3facddcdbfd1a7af5d8677cb48fc2482b/kotlin-android-extensions-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.3.0-rc-198/32c54e1a1e17d621401d49ec594e2f5db08dae1a/kotlin-compiler-runner-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.3.0-rc-198/d37282f4358dbd5e2d813bf3b5a66576ef389c3/kotlin-scripting-compiler-embeddable-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0-rc-198/623f203177bd2a7555d32595a0f35fc0a44bbedb/kotlin-stdlib-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.3.0-rc-198/c2ab990fcaa0911ad5142e12d97710bb4af3eca7/kotlin-native-utils-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.0-rc-198/92d7e05f5875d4b98ce13bf5a887266be7512a8c/kotlin-script-runtime-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.0-rc-198/e33e5c906387baaf8767ffc6806d10ee5bddeead/kotlin-reflect-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-common/1.3.0-rc-198/93e6701504a7ed209a33a67198d97c9ad352d2e2/kotlin-build-common-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/1.3.0-rc-198/334d2f4e0f4905cd95346e8c58264bf0099d32be/kotlin-daemon-client-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0-rc-198/bce8c60f1d4839dc8121b7580fb078073037d501/kotlin-stdlib-common-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/RomanSum/group" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/RomanSum/merge">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.0-rc-198/d0c1e5e89f9f90417042fa80ea61994701909b3/kotlin-gradle-plugin-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.3.0-rc-198/f1401c292c08c8409d182b76e63c0f31f646265/kotlin-gradle-plugin-api-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/1.3.0-rc-198/839e602f6a8df14e19adf66ce559bed267b9f002/kotlin-gradle-plugin-model-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.0-rc-198/aefe232f9860570aaea041b414890b1b2fe77ff7/kotlin-compiler-embeddable-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-annotation-processing-gradle/1.3.0-rc-198/da5c8f5919fc84e1aa73b0ac6eb3ae210a1eb0bc/kotlin-annotation-processing-gradle-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.0-rc-198/984bfeeaea53c02b26340e1f1bd5809dea5d98a/kotlin-android-extensions-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.3.0-rc-198/eef59205161a7c0dd123da79727248e6ba65832b/kotlin-compiler-runner-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.3.0-rc-198/56693bb45bf9ac6e62acf84b5152c6c62523fe6a/kotlin-scripting-compiler-embeddable-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0-rc-198/2dcf21de3e2442ee84b1edecdec15b52edf55bfb/kotlin-stdlib-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.3.0-rc-198/ea068a35475f1700dd54a37d55ff1f1c0611d9d0/kotlin-native-utils-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.0-rc-198/70834dc4005aac247b7fc5e3825bc4cfa3c377bd/kotlin-script-runtime-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.0-rc-198/f25b8cfcc232b931e12c0e0bfc4a0e2b0c84b185/kotlin-reflect-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-common/1.3.0-rc-198/875c042521c3b6457cf89e6f1dc00dd64ce51623/kotlin-build-common-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/1.3.0-rc-198/cd09d0436198bfcf5721b0fa64da5ccf4b7cd3ed/kotlin-daemon-client-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0-rc-198/1189d61816482d68767592f9b6205a44be76eee8/kotlin-stdlib-common-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.0-rc-198/36589ca214b59473c1fbe210793339337a624dbd/kotlin-gradle-plugin-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.3.0-rc-198/2a90cb698561c4247767c1e8dce4dc70fb38c1f1/kotlin-gradle-plugin-api-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/1.3.0-rc-198/1f8b09db79c3e9c53852113e147f797e4be1e9f8/kotlin-gradle-plugin-model-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.0-rc-198/127184efcb57bbe708bee90112bf440fbe37a147/kotlin-compiler-embeddable-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-annotation-processing-gradle/1.3.0-rc-198/e474c42e62a30c9018136f4ce3af99377c8def6e/kotlin-annotation-processing-gradle-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.0-rc-198/4218b9c3facddcdbfd1a7af5d8677cb48fc2482b/kotlin-android-extensions-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.3.0-rc-198/32c54e1a1e17d621401d49ec594e2f5db08dae1a/kotlin-compiler-runner-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.3.0-rc-198/d37282f4358dbd5e2d813bf3b5a66576ef389c3/kotlin-scripting-compiler-embeddable-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0-rc-198/623f203177bd2a7555d32595a0f35fc0a44bbedb/kotlin-stdlib-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.3.0-rc-198/c2ab990fcaa0911ad5142e12d97710bb4af3eca7/kotlin-native-utils-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.0-rc-198/92d7e05f5875d4b98ce13bf5a887266be7512a8c/kotlin-script-runtime-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.0-rc-198/e33e5c906387baaf8767ffc6806d10ee5bddeead/kotlin-reflect-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-common/1.3.0-rc-198/93e6701504a7ed209a33a67198d97c9ad352d2e2/kotlin-build-common-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/1.3.0-rc-198/334d2f4e0f4905cd95346e8c58264bf0099d32be/kotlin-daemon-client-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0-rc-198/bce8c60f1d4839dc8121b7580fb078073037d501/kotlin-stdlib-common-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/RomanSum/merge" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/RomanSum/simplify">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.0-rc-198/d0c1e5e89f9f90417042fa80ea61994701909b3/kotlin-gradle-plugin-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.3.0-rc-198/f1401c292c08c8409d182b76e63c0f31f646265/kotlin-gradle-plugin-api-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/1.3.0-rc-198/839e602f6a8df14e19adf66ce559bed267b9f002/kotlin-gradle-plugin-model-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.0-rc-198/aefe232f9860570aaea041b414890b1b2fe77ff7/kotlin-compiler-embeddable-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-annotation-processing-gradle/1.3.0-rc-198/da5c8f5919fc84e1aa73b0ac6eb3ae210a1eb0bc/kotlin-annotation-processing-gradle-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.0-rc-198/984bfeeaea53c02b26340e1f1bd5809dea5d98a/kotlin-android-extensions-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.3.0-rc-198/eef59205161a7c0dd123da79727248e6ba65832b/kotlin-compiler-runner-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.3.0-rc-198/56693bb45bf9ac6e62acf84b5152c6c62523fe6a/kotlin-scripting-compiler-embeddable-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0-rc-198/2dcf21de3e2442ee84b1edecdec15b52edf55bfb/kotlin-stdlib-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.3.0-rc-198/ea068a35475f1700dd54a37d55ff1f1c0611d9d0/kotlin-native-utils-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.0-rc-198/70834dc4005aac247b7fc5e3825bc4cfa3c377bd/kotlin-script-runtime-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.0-rc-198/f25b8cfcc232b931e12c0e0bfc4a0e2b0c84b185/kotlin-reflect-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-common/1.3.0-rc-198/875c042521c3b6457cf89e6f1dc00dd64ce51623/kotlin-build-common-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/1.3.0-rc-198/cd09d0436198bfcf5721b0fa64da5ccf4b7cd3ed/kotlin-daemon-client-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0-rc-198/1189d61816482d68767592f9b6205a44be76eee8/kotlin-stdlib-common-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.0-rc-198/36589ca214b59473c1fbe210793339337a624dbd/kotlin-gradle-plugin-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.3.0-rc-198/2a90cb698561c4247767c1e8dce4dc70fb38c1f1/kotlin-gradle-plugin-api-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/1.3.0-rc-198/1f8b09db79c3e9c53852113e147f797e4be1e9f8/kotlin-gradle-plugin-model-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.0-rc-198/127184efcb57bbe708bee90112bf440fbe37a147/kotlin-compiler-embeddable-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-annotation-processing-gradle/1.3.0-rc-198/e474c42e62a30c9018136f4ce3af99377c8def6e/kotlin-annotation-processing-gradle-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.0-rc-198/4218b9c3facddcdbfd1a7af5d8677cb48fc2482b/kotlin-android-extensions-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.3.0-rc-198/32c54e1a1e17d621401d49ec594e2f5db08dae1a/kotlin-compiler-runner-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.3.0-rc-198/d37282f4358dbd5e2d813bf3b5a66576ef389c3/kotlin-scripting-compiler-embeddable-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0-rc-198/623f203177bd2a7555d32595a0f35fc0a44bbedb/kotlin-stdlib-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.3.0-rc-198/c2ab990fcaa0911ad5142e12d97710bb4af3eca7/kotlin-native-utils-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.0-rc-198/92d7e05f5875d4b98ce13bf5a887266be7512a8c/kotlin-script-runtime-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.0-rc-198/e33e5c906387baaf8767ffc6806d10ee5bddeead/kotlin-reflect-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-common/1.3.0-rc-198/93e6701504a7ed209a33a67198d97c9ad352d2e2/kotlin-build-common-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/1.3.0-rc-198/334d2f4e0f4905cd95346e8c58264bf0099d32be/kotlin-daemon-client-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0-rc-198/bce8c60f1d4839dc8121b7580fb078073037d501/kotlin-stdlib-common-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/RomanSum/simplify" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/RomanSum/sum">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.0-rc-198/d0c1e5e89f9f90417042fa80ea61994701909b3/kotlin-gradle-plugin-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.3.0-rc-198/f1401c292c08c8409d182b76e63c0f31f646265/kotlin-gradle-plugin-api-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/1.3.0-rc-198/839e602f6a8df14e19adf66ce559bed267b9f002/kotlin-gradle-plugin-model-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.0-rc-198/aefe232f9860570aaea041b414890b1b2fe77ff7/kotlin-compiler-embeddable-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-annotation-processing-gradle/1.3.0-rc-198/da5c8f5919fc84e1aa73b0ac6eb3ae210a1eb0bc/kotlin-annotation-processing-gradle-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.0-rc-198/984bfeeaea53c02b26340e1f1bd5809dea5d98a/kotlin-android-extensions-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.3.0-rc-198/eef59205161a7c0dd123da79727248e6ba65832b/kotlin-compiler-runner-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.3.0-rc-198/56693bb45bf9ac6e62acf84b5152c6c62523fe6a/kotlin-scripting-compiler-embeddable-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0-rc-198/2dcf21de3e2442ee84b1edecdec15b52edf55bfb/kotlin-stdlib-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.3.0-rc-198/ea068a35475f1700dd54a37d55ff1f1c0611d9d0/kotlin-native-utils-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.0-rc-198/70834dc4005aac247b7fc5e3825bc4cfa3c377bd/kotlin-script-runtime-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.0-rc-198/f25b8cfcc232b931e12c0e0bfc4a0e2b0c84b185/kotlin-reflect-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-common/1.3.0-rc-198/875c042521c3b6457cf89e6f1dc00dd64ce51623/kotlin-build-common-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/1.3.0-rc-198/cd09d0436198bfcf5721b0fa64da5ccf4b7cd3ed/kotlin-daemon-client-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0-rc-198/1189d61816482d68767592f9b6205a44be76eee8/kotlin-stdlib-common-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.0-rc-198/36589ca214b59473c1fbe210793339337a624dbd/kotlin-gradle-plugin-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.3.0-rc-198/2a90cb698561c4247767c1e8dce4dc70fb38c1f1/kotlin-gradle-plugin-api-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/1.3.0-rc-198/1f8b09db79c3e9c53852113e147f797e4be1e9f8/kotlin-gradle-plugin-model-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.0-rc-198/127184efcb57bbe708bee90112bf440fbe37a147/kotlin-compiler-embeddable-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-annotation-processing-gradle/1.3.0-rc-198/e474c42e62a30c9018136f4ce3af99377c8def6e/kotlin-annotation-processing-gradle-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.0-rc-198/4218b9c3facddcdbfd1a7af5d8677cb48fc2482b/kotlin-android-extensions-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.3.0-rc-198/32c54e1a1e17d621401d49ec594e2f5db08dae1a/kotlin-compiler-runner-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.3.0-rc-198/d37282f4358dbd5e2d813bf3b5a66576ef389c3/kotlin-scripting-compiler-embeddable-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0-rc-198/623f203177bd2a7555d32595a0f35fc0a44bbedb/kotlin-stdlib-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.3.0-rc-198/c2ab990fcaa0911ad5142e12d97710bb4af3eca7/kotlin-native-utils-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.0-rc-198/92d7e05f5875d4b98ce13bf5a887266be7512a8c/kotlin-script-runtime-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.0-rc-198/e33e5c906387baaf8767ffc6806d10ee5bddeead/kotlin-reflect-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-common/1.3.0-rc-198/93e6701504a7ed209a33a67198d97c9ad352d2e2/kotlin-build-common-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/1.3.0-rc-198/334d2f4e0f4905cd95346e8c58264bf0099d32be/kotlin-daemon-client-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0-rc-198/bce8c60f1d4839dc8121b7580fb078073037d501/kotlin-stdlib-common-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/RomanSum/sum" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/RomanSum/unpack">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.0-rc-198/d0c1e5e89f9f90417042fa80ea61994701909b3/kotlin-gradle-plugin-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.3.0-rc-198/f1401c292c08c8409d182b76e63c0f31f646265/kotlin-gradle-plugin-api-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/1.3.0-rc-198/839e602f6a8df14e19adf66ce559bed267b9f002/kotlin-gradle-plugin-model-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.0-rc-198/aefe232f9860570aaea041b414890b1b2fe77ff7/kotlin-compiler-embeddable-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-annotation-processing-gradle/1.3.0-rc-198/da5c8f5919fc84e1aa73b0ac6eb3ae210a1eb0bc/kotlin-annotation-processing-gradle-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.0-rc-198/984bfeeaea53c02b26340e1f1bd5809dea5d98a/kotlin-android-extensions-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.3.0-rc-198/eef59205161a7c0dd123da79727248e6ba65832b/kotlin-compiler-runner-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.3.0-rc-198/56693bb45bf9ac6e62acf84b5152c6c62523fe6a/kotlin-scripting-compiler-embeddable-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0-rc-198/2dcf21de3e2442ee84b1edecdec15b52edf55bfb/kotlin-stdlib-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.3.0-rc-198/ea068a35475f1700dd54a37d55ff1f1c0611d9d0/kotlin-native-utils-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.0-rc-198/70834dc4005aac247b7fc5e3825bc4cfa3c377bd/kotlin-script-runtime-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.0-rc-198/f25b8cfcc232b931e12c0e0bfc4a0e2b0c84b185/kotlin-reflect-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-common/1.3.0-rc-198/875c042521c3b6457cf89e6f1dc00dd64ce51623/kotlin-build-common-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/1.3.0-rc-198/cd09d0436198bfcf5721b0fa64da5ccf4b7cd3ed/kotlin-daemon-client-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0-rc-198/1189d61816482d68767592f9b6205a44be76eee8/kotlin-stdlib-common-1.3.0-rc-198-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.0-rc-198/36589ca214b59473c1fbe210793339337a624dbd/kotlin-gradle-plugin-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.3.0-rc-198/2a90cb698561c4247767c1e8dce4dc70fb38c1f1/kotlin-gradle-plugin-api-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/1.3.0-rc-198/1f8b09db79c3e9c53852113e147f797e4be1e9f8/kotlin-gradle-plugin-model-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.0-rc-198/127184efcb57bbe708bee90112bf440fbe37a147/kotlin-compiler-embeddable-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-annotation-processing-gradle/1.3.0-rc-198/e474c42e62a30c9018136f4ce3af99377c8def6e/kotlin-annotation-processing-gradle-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.0-rc-198/4218b9c3facddcdbfd1a7af5d8677cb48fc2482b/kotlin-android-extensions-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.3.0-rc-198/32c54e1a1e17d621401d49ec594e2f5db08dae1a/kotlin-compiler-runner-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.3.0-rc-198/d37282f4358dbd5e2d813bf3b5a66576ef389c3/kotlin-scripting-compiler-embeddable-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0-rc-198/623f203177bd2a7555d32595a0f35fc0a44bbedb/kotlin-stdlib-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.3.0-rc-198/c2ab990fcaa0911ad5142e12d97710bb4af3eca7/kotlin-native-utils-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.0-rc-198/92d7e05f5875d4b98ce13bf5a887266be7512a8c/kotlin-script-runtime-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.0-rc-198/e33e5c906387baaf8767ffc6806d10ee5bddeead/kotlin-reflect-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-common/1.3.0-rc-198/93e6701504a7ed209a33a67198d97c9ad352d2e2/kotlin-build-common-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/1.3.0-rc-198/334d2f4e0f4905cd95346e8c58264bf0099d32be/kotlin-daemon-client-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0-rc-198/bce8c60f1d4839dc8121b7580fb078073037d501/kotlin-stdlib-common-1.3.0-rc-198.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/RomanSum/unpack" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
                   <entry key="$PROJECT_DIR$/lesson1/FizzBuzz">
                     <value>
                       <ExternalModuleBuildClasspathPojo>
@@ -1204,6 +2374,22 @@
         <option value="$PROJECT_DIR$/lesson1/RomanSum/task.html" />
         <option value="$PROJECT_DIR$/lesson1/RomanSum/src/RomanSum.kt" />
         <option value="$PROJECT_DIR$/lesson1/RomanSum/test/Tests.kt" />
+        <option value="$PROJECT_DIR$/RomanSum/unpack/src/Task.kt" />
+        <option value="$PROJECT_DIR$/RomanSum/unpack/test/Tests.kt" />
+        <option value="$PROJECT_DIR$/RomanSum/merge/src/Task.kt" />
+        <option value="$PROJECT_DIR$/RomanSum/merge/test/Tests.kt" />
+        <option value="$PROJECT_DIR$/RomanSum/group/src/Task.kt" />
+        <option value="$PROJECT_DIR$/RomanSum/group/test/Tests.kt" />
+        <option value="$PROJECT_DIR$/RomanSum/group/task.html" />
+        <option value="$PROJECT_DIR$/RomanSum/simplify/src/Task.kt" />
+        <option value="$PROJECT_DIR$/RomanSum/simplify/task.html" />
+        <option value="$PROJECT_DIR$/RomanSum/simplify/test/Tests.kt" />
+        <option value="$PROJECT_DIR$/RomanSum/merge/task.html" />
+        <option value="$PROJECT_DIR$/RomanSum/unpack/task.html" />
+        <option value="$PROJECT_DIR$/RomanSum/sum/test/Tests.kt" />
+        <option value="$PROJECT_DIR$/RomanSum/sum/src/RomanSum.kt" />
+        <option value="$PROJECT_DIR$/RomanSum/sum/src/Task.kt" />
+        <option value="$PROJECT_DIR$/RomanSum/sum/task.html" />
       </list>
     </option>
   </component>
@@ -1215,9 +2401,9 @@
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="-1920" />
-    <option name="y" value="-400" />
+    <option name="y" value="-555" />
     <option name="width" value="1920" />
-    <option name="height" value="1200" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -1225,8 +2411,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="Course">
         <subPane>
@@ -1238,45 +2422,98 @@
             <path>
               <item name="Formation_Kotlin" type="a264ea2a:RootNode" />
               <item name="Formation Kotlin" type="ef639090:CCCourseNode" />
-              <item name="lesson1" type="e994c609:CCLessonNode" />
+              <item name="FizzBuzz" type="e994c609:CCLessonNode" />
             </path>
             <path>
               <item name="Formation_Kotlin" type="a264ea2a:RootNode" />
               <item name="Formation Kotlin" type="ef639090:CCCourseNode" />
-              <item name="lesson1" type="e994c609:CCLessonNode" />
+              <item name="FizzBuzz" type="e994c609:CCLessonNode" />
               <item name="FizzBuzz" type="83e62b93:CCTaskNode" />
             </path>
             <path>
               <item name="Formation_Kotlin" type="a264ea2a:RootNode" />
               <item name="Formation Kotlin" type="ef639090:CCCourseNode" />
-              <item name="lesson1" type="e994c609:CCLessonNode" />
+              <item name="FizzBuzz" type="e994c609:CCLessonNode" />
               <item name="FizzBuzz" type="83e62b93:CCTaskNode" />
               <item name="src" type="7e263673:CCNode" />
             </path>
             <path>
               <item name="Formation_Kotlin" type="a264ea2a:RootNode" />
               <item name="Formation Kotlin" type="ef639090:CCCourseNode" />
-              <item name="lesson1" type="e994c609:CCLessonNode" />
-              <item name="RomanSum" type="83e62b93:CCTaskNode" />
+              <item name="RomanSum" type="e994c609:CCLessonNode" />
             </path>
             <path>
               <item name="Formation_Kotlin" type="a264ea2a:RootNode" />
               <item name="Formation Kotlin" type="ef639090:CCCourseNode" />
-              <item name="lesson1" type="e994c609:CCLessonNode" />
-              <item name="RomanSum" type="83e62b93:CCTaskNode" />
+              <item name="RomanSum" type="e994c609:CCLessonNode" />
+              <item name="unpack" type="83e62b93:CCTaskNode" />
+            </path>
+            <path>
+              <item name="Formation_Kotlin" type="a264ea2a:RootNode" />
+              <item name="Formation Kotlin" type="ef639090:CCCourseNode" />
+              <item name="RomanSum" type="e994c609:CCLessonNode" />
+              <item name="unpack" type="83e62b93:CCTaskNode" />
               <item name="src" type="7e263673:CCNode" />
             </path>
             <path>
               <item name="Formation_Kotlin" type="a264ea2a:RootNode" />
               <item name="Formation Kotlin" type="ef639090:CCCourseNode" />
-              <item name="lesson1" type="e994c609:CCLessonNode" />
-              <item name="RomanSum" type="83e62b93:CCTaskNode" />
+              <item name="RomanSum" type="e994c609:CCLessonNode" />
+              <item name="simplify" type="83e62b93:CCTaskNode" />
+            </path>
+            <path>
+              <item name="Formation_Kotlin" type="a264ea2a:RootNode" />
+              <item name="Formation Kotlin" type="ef639090:CCCourseNode" />
+              <item name="RomanSum" type="e994c609:CCLessonNode" />
+              <item name="simplify" type="83e62b93:CCTaskNode" />
+              <item name="src" type="7e263673:CCNode" />
+            </path>
+            <path>
+              <item name="Formation_Kotlin" type="a264ea2a:RootNode" />
+              <item name="Formation Kotlin" type="ef639090:CCCourseNode" />
+              <item name="RomanSum" type="e994c609:CCLessonNode" />
+              <item name="sum" type="83e62b93:CCTaskNode" />
+            </path>
+            <path>
+              <item name="Formation_Kotlin" type="a264ea2a:RootNode" />
+              <item name="Formation Kotlin" type="ef639090:CCCourseNode" />
+              <item name="RomanSum" type="e994c609:CCLessonNode" />
+              <item name="sum" type="83e62b93:CCTaskNode" />
+              <item name="src" type="7e263673:CCNode" />
+            </path>
+            <path>
+              <item name="Formation_Kotlin" type="a264ea2a:RootNode" />
+              <item name="Formation Kotlin" type="ef639090:CCCourseNode" />
+              <item name="RomanSum" type="e994c609:CCLessonNode" />
+              <item name="sum" type="83e62b93:CCTaskNode" />
               <item name="test" type="7e263673:CCNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Formation_Kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Formation Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Formation_Kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Formation Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Formation_Kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Formation Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="RomanSum" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1288,8 +2525,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Kotlin" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/RomanSum/sum/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1393,7 +2635,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-400" width="1920" height="1200" extended-state="0" />
+    <frame x="-1920" y="-555" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -1407,7 +2649,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
@@ -1430,8 +2672,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" Init project and add FizzBuzz and RomanSum lessons" />
+    <MESSAGE value=" create multiple tasks for RomanSum" />
+    <option name="LAST_COMMIT_MESSAGE" value=" create multiple tasks for RomanSum" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson1/FizzBuzz/test/FizzBuzz.kt">
+    <entry file="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz/test/FizzBuzz.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
@@ -1445,7 +2692,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/FizzBuzz/task.html">
+    <entry file="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz/task.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
@@ -1459,34 +2706,149 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/FizzBuzz/src/FizzBuzz.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="210">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/RomanSum/task.html">
+    <entry file="file://$PROJECT_DIR$/RomanSum/unpack/test/Tests.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/RomanSum/test/Tests.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+        <state relative-caret-position="266">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/RomanSum/src/RomanSum.kt">
+    <entry file="file://$PROJECT_DIR$/RomanSum/merge/test/Tests.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanSum/group/test/Tests.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanSum/group/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/RomanSum/task.html" />
+    <entry file="file://$PROJECT_DIR$/RomanSum/merge/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" column="85" selection-start-line="1" selection-start-column="85" selection-end-line="1" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanSum/unpack/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanSum/simplify/test/Tests.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanSum/simplify/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/RomanSum/test/Tests.kt" />
+    <entry file="file://$PROJECT_DIR$/lesson1/RomanSum/src/RomanSum.kt" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/study_project.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanSum/unpack/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="140">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanSum/merge/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="14">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanSum/group/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="14">
+          <caret line="1" selection-start-line="1" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanSum/simplify/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="14">
+          <caret line="1" selection-start-line="1" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanSum/sum/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" column="85" selection-start-line="1" selection-start-column="85" selection-end-line="1" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz/src/FizzBuzz.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="210">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanSum/sum/src/RomanSum.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="StudyEditor">
+        <state relative-caret-position="686">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanSum/sum/test/Tests.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanSum/sum/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="28">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1543,7 +2905,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>lesson1-RomanSum_test|lesson1-RomanSum</last-edited>
+          <last-edited>RomanSum-group_main|RomanSum-group</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

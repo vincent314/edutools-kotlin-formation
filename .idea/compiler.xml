@@ -2,10 +2,22 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="FizzBuzz-FizzBuzz_main" target="1.8" />
+      <module name="FizzBuzz-FizzBuzz_test" target="1.8" />
       <module name="lesson1-FizzBuzz_main" target="1.8" />
       <module name="lesson1-FizzBuzz_test" target="1.8" />
       <module name="lesson1-RomanSum_main" target="1.8" />
       <module name="lesson1-RomanSum_test" target="1.8" />
+      <module name="RomanSum-group_main" target="1.8" />
+      <module name="RomanSum-group_test" target="1.8" />
+      <module name="RomanSum-merge_main" target="1.8" />
+      <module name="RomanSum-merge_test" target="1.8" />
+      <module name="RomanSum-simplify_main" target="1.8" />
+      <module name="RomanSum-simplify_test" target="1.8" />
+      <module name="RomanSum-sum_main" target="1.8" />
+      <module name="RomanSum-sum_test" target="1.8" />
+      <module name="RomanSum-unpack_main" target="1.8" />
+      <module name="RomanSum-unpack_test" target="1.8" />
       <module name="util_main" target="1.8" />
       <module name="util_test" target="1.8" />
     </bytecodeTargetLevel>

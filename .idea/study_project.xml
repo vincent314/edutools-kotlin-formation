@@ -25,14 +25,14 @@
           <option name="language" value="kotlin" />
           <option name="languageCode" value="en" />
           <option name="name" value="Formation Kotlin" />
-          <option name="stepikChangeStatus" value="Up to date" />
+          <option name="stepikChangeStatus" value="Content changed" />
           <option name="items">
             <list>
               <Lesson>
                 <option name="customPresentableName" />
                 <option name="id" value="0" />
                 <option name="index" value="1" />
-                <option name="name" value="lesson1" />
+                <option name="name" value="FizzBuzz" />
                 <option name="stepikChangeStatus" value="Content changed" />
                 <option name="updateDate" value="0" />
                 <option name="taskList">
@@ -207,6 +207,336 @@
                                 </option>
                                 <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/RomanSum.kt" />
+                                <option name="text" value="// type your solution here" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="test/Tests.kt" value="import org.junit.Assert&#10;import org.junit.Test&#10;&#10;class Test {&#10;    @Test fun testSolution() {&#10;        //TODO: implement your test here&#10;        Assert.assertTrue(&quot;Tests not implemented for the task&quot;, false)&#10;    }&#10;}" />
+                        </map>
+                      </option>
+                      <option name="updateDate" value="0" />
+                    </EduTask>
+                  </list>
+                </option>
+                <option name="unitId" value="0" />
+              </Lesson>
+              <Lesson>
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="2" />
+                <option name="name" value="RomanSum" />
+                <option name="stepikChangeStatus" value="Content changed" />
+                <option name="updateDate" value="0" />
+                <option name="taskList">
+                  <list>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;html&gt;&#10;&lt;p&gt;Construisez d'abord une fonction unpack pour décompacter les nombres : écrire de façon naïve les formes soustractives.&lt;/p&gt;&#10;&#10;&lt;p&gt;Exemples:&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;  &lt;li&gt;&lt;code&gt;unpack(&quot;XIX&quot;) == &quot;XVIIII&quot;&lt;/code&gt;&lt;/li&gt;&#10;  &lt;li&gt;&lt;code&gt;unpack(&quot;XXIV&quot;) == &quot;XXIIII&quot;&lt;/code&gt;&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;/html&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" />
+                          <option name="type" value="STEPIK" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="index" value="1" />
+                      <option name="name" value="unpack" />
+                      <option name="status" value="Solved" />
+                      <option name="stepId" value="0" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="src/Task.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list>
+                                          <option value=" " />
+                                        </list>
+                                      </option>
+                                      <option name="index" value="0" />
+                                      <option name="initialState" />
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="53" />
+                                      <option name="offset" value="235" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="TODO(&quot;Décompacter les formes soustractives usuelles&quot;)" />
+                                      <option name="possibleAnswer" value="unpackRules.fold(roman) { r, (old, new) -&gt;&#10;            r.replace(old, new)&#10;        }" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Solved" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Task.kt" />
+                                <option name="text" value="// type your solution here" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="test/Tests.kt" value="import org.junit.Assert&#10;import org.junit.Test&#10;&#10;class Test {&#10;    @Test fun testSolution() {&#10;        //TODO: implement your test here&#10;        Assert.assertTrue(&quot;Tests not implemented for the task&quot;, false)&#10;    }&#10;}" />
+                        </map>
+                      </option>
+                      <option name="updateDate" value="0" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;html&gt;&#10;&lt;p&gt;Construisez une fonction &lt;b&gt;merge&lt;/b&gt; pour concaténer et trier les caractères.&lt;/p&gt;&#10;&#10;&lt;code&gt; merge(&quot;XVIIII&quot;, &quot;XXIIII&quot;) == &quot;XXXVIIIIIIII&quot;&lt;/code&gt;&#10;&#10;&lt;/html&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" />
+                          <option name="type" value="STEPIK" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="index" value="2" />
+                      <option name="name" value="merge" />
+                      <option name="status" value="Solved" />
+                      <option name="stepId" value="0" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="src/Task.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list />
+                                      </option>
+                                      <option name="index" value="0" />
+                                      <option name="initialState" />
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="27" />
+                                      <option name="offset" value="65" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="TODO(&quot;Concaténer et trier&quot;)" />
+                                      <option name="possibleAnswer" value="val weights: Map&lt;Char, Int&gt; = mapOf(&#10;            'I' to 1,&#10;            'V' to 5,&#10;            'X' to 10,&#10;            'L' to 50,&#10;            'C' to 100,&#10;            'D' to 500,&#10;            'M' to 1000&#10;    )&#10;    return roman1.plus(roman2).toCharArray()&#10;            .sortedByDescending { weights[it] }&#10;            .joinToString(&quot;&quot;)" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Solved" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Task.kt" />
+                                <option name="text" value="// type your solution here" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="test/Tests.kt" value="import org.junit.Assert&#10;import org.junit.Test&#10;&#10;class Test {&#10;    @Test fun testSolution() {&#10;        //TODO: implement your test here&#10;        Assert.assertTrue(&quot;Tests not implemented for the task&quot;, false)&#10;    }&#10;}" />
+                        </map>
+                      </option>
+                      <option name="updateDate" value="0" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;html&gt;&#10;&lt;p&gt;Construisez une fonction &lt;b&gt;group&lt;/b&gt; pour regrouper les &quot;tas&quot; en partant de la droite (les plus petits).&lt;/p&gt;&#10;&#10;&lt;code&gt;group(&quot;XXXVIIIIIIII) == &quot;XXXXIII&quot;&lt;/code&gt;&#10;&#10;&lt;/html&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" />
+                          <option name="type" value="STEPIK" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="index" value="3" />
+                      <option name="name" value="group" />
+                      <option name="status" value="Solved" />
+                      <option name="stepId" value="0" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="src/Task.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list />
+                                      </option>
+                                      <option name="index" value="0" />
+                                      <option name="initialState" />
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="32" />
+                                      <option name="offset" value="44" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="TODO(&quot;Regrouper les caractères&quot;)" />
+                                      <option name="possibleAnswer" value="        listOf(&#10;                &quot;IIIII&quot; to &quot;V&quot;,&#10;                &quot;VV&quot; to &quot;X&quot;,&#10;                &quot;XXXXX&quot; to &quot;L&quot;,&#10;                &quot;LL&quot; to &quot;C&quot;,&#10;                &quot;CCCCC&quot; to &quot;D&quot;,&#10;                &quot;DD&quot; to &quot;M&quot;&#10;        )&#10;                .fold(roman) { r, (old, new) -&gt;&#10;                    r.replace(old, new)&#10;                }" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Solved" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Task.kt" />
+                                <option name="text" value="// type your solution here" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="test/Tests.kt" value="import org.junit.Assert&#10;import org.junit.Test&#10;&#10;class Test {&#10;    @Test fun testSolution() {&#10;        //TODO: implement your test here&#10;        Assert.assertTrue(&quot;Tests not implemented for the task&quot;, false)&#10;    }&#10;}" />
+                        </map>
+                      </option>
+                      <option name="updateDate" value="0" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;html&gt;&#10;&lt;p&gt;Construisez une fonction simplify pour simplifiers les formes soustractives XL ou IV :&lt;/p&gt;&#10;&#10;&lt;code&gt;simplify(&quot;XXXXIII&quot;) == &quot;XLIII&quot;&lt;/code&gt;&#10;&#10;&lt;/html&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" />
+                          <option name="type" value="STEPIK" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="index" value="4" />
+                      <option name="name" value="simplify" />
+                      <option name="status" value="Solved" />
+                      <option name="stepId" value="0" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="src/Task.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list />
+                                      </option>
+                                      <option name="index" value="0" />
+                                      <option name="initialState" />
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="35" />
+                                      <option name="offset" value="47" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="TODO(&quot;Simplifier le nombre romain&quot;)" />
+                                      <option name="possibleAnswer" value="        listOf(&#10;                &quot;DCCCC&quot; to &quot;CM&quot;,&#10;                &quot;CCCC&quot; to &quot;CD&quot;,&#10;                &quot;LXXXX&quot; to &quot;XC&quot;,&#10;                &quot;XXXX&quot; to &quot;XL&quot;,&#10;                &quot;VIIII&quot; to &quot;IX&quot;,&#10;                &quot;IIII&quot; to &quot;IV&quot;&#10;        )&#10;                .fold(roman) { r, (expandForm, compactForm) -&gt; r.replace(expandForm, compactForm) }&#10;                .toList()&#10;                .joinToString(&quot;&quot;)" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Solved" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Task.kt" />
+                                <option name="text" value="// type your solution here" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="test/Tests.kt" value="import org.junit.Assert&#10;import org.junit.Test&#10;&#10;class Test {&#10;    @Test fun testSolution() {&#10;        //TODO: implement your test here&#10;        Assert.assertTrue(&quot;Tests not implemented for the task&quot;, false)&#10;    }&#10;}" />
+                        </map>
+                      </option>
+                      <option name="updateDate" value="0" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;br&gt;&#10;&lt;br&gt;&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  You can add hints anywhere in task text. Copy all hint div block and change its content.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" />
+                          <option name="type" value="STEPIK" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="index" value="5" />
+                      <option name="name" value="sum" />
+                      <option name="status" value="Solved" />
+                      <option name="stepId" value="0" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="src/Task.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list />
+                                      </option>
+                                      <option name="index" value="0" />
+                                      <option name="initialState" />
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="74" />
+                                      <option name="offset" value="50" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="TODO(&quot;Combiner les fonctions unpack, merge group et simplify pour sommer&quot;)" />
+                                      <option name="possibleAnswer" value="merge(unpack(roman1), unpack(roman2))&#10;        .let(::group)&#10;        .let(::simplify)" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Solved" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// type your solution here" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />

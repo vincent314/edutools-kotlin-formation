@@ -8,8 +8,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/lesson1/FizzBuzz" />
-            <option value="$PROJECT_DIR$/lesson1/RomanSum" />
+            <option value="$PROJECT_DIR$/FizzBuzz/FizzBuzz" />
+            <option value="$PROJECT_DIR$/RomanSum/group" />
+            <option value="$PROJECT_DIR$/RomanSum/merge" />
+            <option value="$PROJECT_DIR$/RomanSum/simplify" />
+            <option value="$PROJECT_DIR$/RomanSum/sum" />
+            <option value="$PROJECT_DIR$/RomanSum/unpack" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
